@@ -27,8 +27,8 @@ body{
 
 .cards h1{
  color: #2ab2af; 
- font-size: 20px;
- font-family: sans-serif;
+ font-size: 25px;
+ font-family:sans-serif;
  padding:20px 0 15px 0;
 }
  
@@ -40,7 +40,7 @@ body{
 }
 
 .cards p{
-  color: #4bbebc;
+  color: #98a6bd;
   font-family: sans-serif;
   line-height: 26px;
   font-size: 15px;
@@ -66,7 +66,7 @@ padding: 20px;
 
 .cardHolds  .cardOne  h1{
   color: #fff;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;  
 }
 
@@ -80,7 +80,7 @@ padding: 20px;
 
 
 .cardHolds .cardOne p span{
-  color: #e1dcdc;
+  color: #ede8e8;
   font-size: 15px;
   font-family: sans-serif; 
   padding-left: 5px; 
@@ -120,7 +120,7 @@ padding: 30px;
 
 .cardHolds .cardTwo h3{
   color: #fff;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
   padding: 20px 0;
   font-size: 17px;
 }
@@ -130,9 +130,9 @@ padding: 30px;
 }
 
 .cardHolds .cardTwo ul li{
-  padding: 3px 0;
-  color: #c0df34;
-  font-size: 15px;
+  padding: 2px 0;
+   color: #ede8e8;
+  font-size: 12px;
   font-family: sans-serif;
 }
 
@@ -152,8 +152,6 @@ padding: 30px;
 
   .cardHolds  .cardOne{
     margin-bottom:calc(40px);
-    
-  
   }
 
   .cardHolds .cardTwo{
